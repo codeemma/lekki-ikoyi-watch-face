@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LekkiIkoyiWatchFace</string>
+
+    <string name="digital_name">DigitalWatchFace</string>
 </resources>

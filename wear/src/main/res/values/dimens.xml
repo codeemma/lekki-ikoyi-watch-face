@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="x_offset">15dp</dimen>
+    <dimen name="y_offset">80dp</dimen>
+
+    <!-- textsize for digital time -->
+    <dimen name="time_text_size">40dp</dimen>
+    <dimen name="time_text_size_round">45dp</dimen>
+
+    <!-- textsize for date -->
+    <dimen name="date_text_size">12dp</dimen>
+
+    <dimen name="line_height">25dp</dimen>
+
+</resources>
